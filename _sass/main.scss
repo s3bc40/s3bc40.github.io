@@ -4,9 +4,29 @@ body {
     font-size: 100%;
 }
 
+// Link management
+a:link {
+    color: mediumorchid;
+}
+
+/* visited link */
+a:visited {
+    color: mediumorchid;
+}
+
+/* mouse over link */
+a:hover {
+    color: slategrey;
+}
+
+/* selected link */
+a:active {
+    color: mediumorchid;
+}
+
 // Main container
 .main-container {
-    width: 50%;
+    width: 60%;
     margin: 0 auto;
 }
 
@@ -50,10 +70,17 @@ ul.topnav li a:hover {
 img {
     width: 8em;
     border-radius: 50%;
+    float: left;
+    margin-right: 2em;
 }
 
+//Header 2 About
+h2#about {
+    clear: left;
+    padding-top: 1.2em;
+}
 // Headers styling
-h2::before{
+h2::before {
     background-color: mediumorchid;
     content: "";
     display: inline-block;
@@ -70,20 +97,49 @@ h2 {
 }
 
 // Margin text after h2
-h2~ul, h2~p {
-    margin-left: 10%;
-    max-width: 36em;
+h2~ul,
+h2~p {
+    margin-left: 5%;
+    max-width: 42em;
+}
+
+// Margin top for em skills in Experience
+blockquote>p {
+    margin-top: -0.5em;
+    margin-left: 1.5em;
 }
 
 // For responsive design
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 768px) {
 
-    .main-container{
+    .main-container {
         width: 90%;
     }
 
     ul.topnav li.right,
     ul.topnav li {
         float: none;
+    }
+}
+
+// For printing pdf
+@media print {
+
+    @page {
+        size: auto;  /* auto is the initial value */
+        margin: 0mm; /* this affects the margin in the printer settings */
+      }
+
+    html {
+        margin: 2em;
+        background-color: #fff;
+    }
+
+    .main-container {
+        width: 100%;
+    }
+
+    ul.topnav {
+        display: none;
     }
 }
