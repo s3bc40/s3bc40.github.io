@@ -1,4 +1,16 @@
-/* NavBar for language */
+// Body of resume
+body {
+    font-family: 'Alegreya Sans';
+    font-size: 100%;
+}
+
+// Main container
+.main-container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+// NavBar for language
 ul.topnav {
     list-style-type: none;
     margin: 0;
@@ -21,15 +33,54 @@ ul.topnav li a {
 }
 
 ul.topnav li a:hover:not(.active) {
+    color: white;
     background-color: #ddd;
 }
 
-ul.topnav li a.active {
-    color: white;
+ul.topnav li a:hover {
     background-color: slategrey;
 }
 
-@media screen and (max-width: 600px) {
+// ul.topnav li a.active {
+//     color: white;
+//     background-color: slategrey;
+// }
+
+// Image css
+img {
+    width: 8em;
+    border-radius: 50%;
+}
+
+// Headers styling
+h2::before{
+    background-color: mediumorchid;
+    content: "";
+    display: inline-block;
+    height: 0.2em;
+    position: relative;
+    vertical-align: middle;
+    width: 5%;
+    right: 0.5em;
+    margin-left: 0.5em;
+}
+
+h2 {
+    color: mediumorchid;
+}
+
+// Margin text after h2
+h2~ul, h2~p {
+    margin-left: 10%;
+    max-width: 36em;
+}
+
+// For responsive design
+@media screen and (max-width: 1024px) {
+
+    .main-container{
+        width: 90%;
+    }
 
     ul.topnav li.right,
     ul.topnav li {

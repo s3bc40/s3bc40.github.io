@@ -7,19 +7,15 @@ layout: default
 G.CLARO Sébastien
 =================
 
-+ [[GitHub]](https://github.com/s3bc40)
-+ [[LinkedIn]](https://www.linkedin.com/in/sgoncalvesclaro-bioinfo/)
-+ [[s.goncalvesclaro@gmail.com]](s.goncalvesclaro@gmail.com)
-+ [0624524788]
-
----
+[[GitHub: s3bc40]](https://github.com/s3bc40)
+[[LinkedIn: sgoncalvesclaro-bioinfo]](https://www.linkedin.com/in/sgoncalvesclaro-bioinfo/)
+[[s.goncalvesclaro@gmail.com]](s.goncalvesclaro@gmail.com)
+[0624524788]
 
 A propos
 --------
 
 Bioinformaticien computationnel passioné par la Data Science et le développement d'application Web.
-
----
 
 Expériences
 ----------
@@ -33,8 +29,6 @@ Expériences
 + Stage dédié à la mise en place d'un workflow de prédiction du sous-type de cancer *Triple Negative Breast Cancer* (TNBC). Traitement de données, preprocessing et Machine Learning (Random Forest, XGBoost, Logistic Regression).  
 *Outils : Python(3), R, Anaconda, Bioconductor, NumPy, pandas, matplotlib, Seaborn, scikit-learn*
 
----
-
 Formations
 ---------
 **Data Science Bootcamp, Udemy** (mai 2020 - juin 2020, Udemy)
@@ -45,9 +39,7 @@ Formations
 
 + Traitements statistiques de données. Algorithmique: récursivité, parcours d’arbres. Modélisation qualitative, quantitative et modélisation deprocessus dynamique. Bioinformatique structurale.
 
----
-
-Compétences en programmation
+Compétences
 ---------
 **Data Science:** Python, R, Anaconda, NumPy, pandas, matplotlib, Seaborn, statsmodels, scikit-learn, Tensorflow, Jupyter notebook
 
