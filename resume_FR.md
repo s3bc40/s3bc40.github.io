@@ -7,10 +7,12 @@ layout: default
 G.CLARO Sébastien
 =================
 
-[[GitHub: s3bc40]](https://github.com/s3bc40)
-[[LinkedIn: sgoncalvesclaro-bioinfo]](https://www.linkedin.com/in/sgoncalvesclaro-bioinfo/)
-[[s.goncalvesclaro@gmail.com]](s.goncalvesclaro@gmail.com)
-[0624524788]
+[[**GitHub**: s3bc40.github.io]](https://s3bc40.github.io/)
+[[**LinkedIn**: sgoncalvesclaro-bioinfo]](https://www.linkedin.com/in/sgoncalvesclaro-bioinfo/)
+[[**Insta**: s_gclaro]](https://www.instagram.com/s_gclaro/)
+[[**Twitter**: s_GClaro]](https://twitter.com/s_GClaro)
+[[**Email**: s.goncalvesclaro@gmail.com]](s.goncalvesclaro@gmail.com)
+[**Tel**: 0624524788]
 
 About
 --------
@@ -33,11 +35,11 @@ Experiences
 
 Formations
 ---------
-**Data Science Bootcamp, Udemy** (mai 2020 - juin 2020, Udemy)
+**Data Science Bootcamp, 365DataScience** (mai 2020 - juin 2020, Udemy)
 
 + Analyse statistique, Programmation avec NumPy, pandas, matplotlib, et Seaborn, Analyse statistiques avancées, Tableau, Machine Learning avec statsmodels et scikit-learn, Deep learning avec TensorFlow(2). 29h avec [certification](../assets/pdf/certif_DS.pdf).
 
-**Master Bioinformatique parcours Computationnel** (2017 - 2019)
+**Master Bioinformatique parcours Computationnel** (2017 - 2019, Université de Bordeaux)
 
 + Traitements statistiques de données. Algorithmique: récursivité, parcours d’arbres. Modélisation qualitative, quantitative et modélisation deprocessus dynamique. Bioinformatique structurale.
 

@@ -1,17 +1,23 @@
+// Variables
+$width_p: 42em;
+$main_color: mediumorchid;
+$main_font: 'Alegreya Sans';
+
 // Body of resume
 body {
-    font-family: 'Alegreya Sans';
+    font-family: $main_font;
     font-size: 100%;
 }
 
 // Link management
 a:link {
-    color: mediumorchid;
+    color: $main_color;
+    text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-    color: mediumorchid;
+    color: $main_color;
 }
 
 /* mouse over link */
@@ -21,7 +27,14 @@ a:hover {
 
 /* selected link */
 a:active {
-    color: mediumorchid;
+    color: $main_color;
+}
+
+// Links after h1
+h1+p{
+    max-width: $width_p;
+    color: $main_color;
+    font-size: 0.9em;
 }
 
 // Main container
@@ -52,19 +65,10 @@ ul.topnav li a {
     text-decoration: none;
 }
 
-ul.topnav li a:hover:not(.active) {
+ul.topnav li a:hover {
     color: white;
     background-color: #ddd;
 }
-
-ul.topnav li a:hover {
-    background-color: slategrey;
-}
-
-// ul.topnav li a.active {
-//     color: white;
-//     background-color: slategrey;
-// }
 
 // Image css
 img {
@@ -79,9 +83,10 @@ h2#about {
     clear: left;
     padding-top: 1.2em;
 }
+
 // Headers styling
 h2::before {
-    background-color: mediumorchid;
+    background-color: $main_color;
     content: "";
     display: inline-block;
     height: 0.2em;
@@ -93,20 +98,20 @@ h2::before {
 }
 
 h2 {
-    color: mediumorchid;
+    color: $main_color;
 }
 
 // Margin text after h2
 h2~ul,
 h2~p {
     margin-left: 5%;
-    max-width: 42em;
+    max-width: $width_p;
 }
 
 // Margin top for em skills in Experience
 blockquote>p {
     margin-top: -0.5em;
-    margin-left: 1.5em;
+    margin-left: 5.5%;
 }
 
 // For responsive design
@@ -122,13 +127,31 @@ blockquote>p {
     }
 }
 
+@media screen and (max-width: 470px) {
+
+    h1+p {
+        clear: left;
+    }
+
+    h1 {
+        clear: left;
+    }
+
+    //Header 2 About
+    h2#about {
+        padding-top: 0.5em;
+    }
+}
+
 // For printing pdf
 @media print {
 
     @page {
-        size: auto;  /* auto is the initial value */
-        margin: 0mm; /* this affects the margin in the printer settings */
-      }
+        size: auto;
+        /* auto is the initial value */
+        margin: 0mm;
+        /* this affects the margin in the printer settings */
+    }
 
     html {
         margin: 2em;
