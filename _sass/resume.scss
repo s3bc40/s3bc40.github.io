@@ -31,7 +31,7 @@ a:active {
 }
 
 // Links after h1
-h1+p{
+h1+p {
     max-width: $width_p;
     color: $main_color;
     font-size: 0.9em;
@@ -43,32 +43,6 @@ h1+p{
     margin: 0 auto;
 }
 
-// NavBar for language
-ul.topnav {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    border: 1px solid #e7e7e7;
-    background-color: #f3f3f3;
-}
-
-ul.topnav li {
-    float: left;
-}
-
-ul.topnav li a {
-    display: block;
-    color: #666;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-ul.topnav li a:hover {
-    color: white;
-    background-color: #ddd;
-}
 
 // Image css
 img {
@@ -120,11 +94,6 @@ blockquote>p {
     .main-container {
         width: 90%;
     }
-
-    ul.topnav li.right,
-    ul.topnav li {
-        float: none;
-    }
 }
 
 @media screen and (max-width: 470px) {
@@ -160,9 +129,5 @@ blockquote>p {
 
     .main-container {
         width: 100%;
-    }
-
-    ul.topnav {
-        display: none;
     }
 }

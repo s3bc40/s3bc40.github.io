@@ -1,0 +1,29 @@
+// Sass variable
+$main_font: 'Alegreya Sans';
+
+// Footer
+footer {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    color: slategray;
+    margin-top: 2em;
+    font-size: 0.8em;
+    font-family: $main_font;
+}
+
+// For responsive design
+@media screen and (max-width: 768px) {
+
+    footer {
+        width: 80%;
+    }
+}
+
+// Hide for print
+@media print {
+
+    footer {
+        display: none;
+    }
+}
