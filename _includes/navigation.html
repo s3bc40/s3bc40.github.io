@@ -1,5 +1,5 @@
 <ul class="topnav">
-    <li><a href="/">Home</a></li>
-    <li><a href="/resume_FR">Resume FR</a></li>
-    <li><a href="/resume_EN">Resume EN</a></li>
+    {%- for item in site.data.navigation -%}
+        <li><a href={{ item.link }}>{{ item.name }}</a></li>
+    {%- endfor -%}
 </ul>

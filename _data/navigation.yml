@@ -1,0 +1,11 @@
+- name: Home
+  link: /
+
+- name: Resume FR
+  link: /resume_FR.html
+
+- name: Resume EN
+  link: /resume_EN.html
+
+- name: Blog
+  link: /blog.html

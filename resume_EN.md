@@ -2,7 +2,7 @@
 layout: resume_template
 ---
 
-![](../assets/images/img_avatar3.png)
+![Profile](../assets/images/img_avatar3.png)
 
 G.CLARO Sebastien
 =================
@@ -22,6 +22,7 @@ The environment, hiking and video games are also my interests.
 
 Experiences
 ----------
+
 **Web developer consultant for MCA-Group, Axileo** (Sept 2019 - May 2020, Paris)
 
 + Development and updating of various internal software: MANAGEO, Intranet, Competence profile. Assistance and technical support (software) to users on site and remotely. Volunteer to software improvement and team communication.
@@ -36,6 +37,7 @@ Experiences
 
 Formations
 ---------
+
 **Data Science Bootcamp, 365DataScience** (May 2020 - June 2020, Udemy)
 
 + Statistical analysis. Programming with NumPy, pandas, matplotlib, and Seaborn. Advanced statistical analysis. Tableau. Machine Learning with statsmodels and scikit-learn. Deep learning with TensorFlow (2). 29h with [certification](../assets/pdf/certif_DS.pdf).
@@ -46,6 +48,7 @@ Formations
 
 Skills
 ---------
+
 **Data Science:** Python, R language, Anaconda, NumPy, pandas, matplotlib, Seaborn, statsmodels, scikit-learn, Tensorflow, Jupyter notebook
 
 **Web development:** HTML5/CSS3, JavaScript, jQuery, Bootstrap, PHP, Symfony, Django, d3.js, chart.js
