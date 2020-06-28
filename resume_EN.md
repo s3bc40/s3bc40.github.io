@@ -25,9 +25,9 @@ Experiences
 
 **Web developer consultant for MCA-Group, Axileo** (Sept 2019 - May 2020, Paris)
 
-+ Development and updating of various internal software: MANAGEO, Intranet, Competence profile. Assistance and technical support (software) to users on site and remotely. Volunteer to software improvement and team communication.
++ Development and updating of various internal software: MANAGEO, Intranet, Competence profile. Assistance and technical support (software) to users on site and remotely. Maintenance assistance for different tools, and version migration.
 
->*Tools : PHP(7), Symfony(2.8,3.4), PHPMyAdmin, HTML5/CSS3, JavaScript, jQuery, CEGID, Talend*
+>*Tools : PHP(7), Symfony(2.8,3.4), PHPMyAdmin, HTML5/CSS3, JavaScript, jQuery, SQL, Windows, PHPStorm, Talend*
 
 **TNBC cancer subtype research and prediction, Sorbonne University** (Feb 2019 - August 2020, Paris)
 
@@ -49,7 +49,7 @@ Formations
 Skills
 ---------
 
-**Data Science:** Python, R language, Anaconda, NumPy, pandas, matplotlib, Seaborn, statsmodels, scikit-learn, Tensorflow, Jupyter notebook
+**Data Science:** Python, R language, SQL, Anaconda, NumPy, pandas, matplotlib, Seaborn, statsmodels, scikit-learn, Tensorflow, Jupyter notebook
 
 **Web development:** HTML5/CSS3, JavaScript, jQuery, Bootstrap, PHP, Symfony, Django, d3.js, chart.js
 

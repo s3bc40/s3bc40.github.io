@@ -1,0 +1,54 @@
+// Variables
+$main_color: mediumorchid;
+
+// Body of resume
+body {
+    font-family: $main_font;
+    font-size: 100%;
+}
+
+// Link management
+a:link {
+    color: $main_color;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: $main_color;
+}
+
+/* mouse over link */
+a:hover {
+    color: slategrey;
+}
+
+/* selected link */
+a:active {
+    color: $main_color;
+}
+
+// Body
+body {
+    width: 100%;
+}
+// Main container
+.main-container {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Alegreya Sans;
+}
+
+// Avatar picture
+img {
+    border: 1px solid #ddd;
+    padding: 0.5em;
+    width: 8em;
+    border-radius: 50%;
+  }
+
+// List unordered
+ul {
+    margin-left: -1.5em;
+}
