@@ -9,7 +9,7 @@ Welcome to my Website
 
 I am Sebastien, a 26 years old computer scientist.
 
-This GithubPages was created by myself, locally with Jekyll. This is where I will try  
+I made this GithubPages, locally with Jekyll. This is where I will try  
 to expose each of my projects or maybe other contents related to programming.
 
 My resume is available online but also in PDF version (just `Ctrl+p` the web page).  
@@ -20,5 +20,5 @@ I am also available on social media :
 + [**Instagram**: s_gclaro](https://www.instagram.com/s_gclaro/)
 + [**Reddit**: u/s3bc40](https://www.reddit.com/user/s3bc40)
 
-If you have any request, please to not hesistate to contact me :
+If you have any request, please do not hesistate to contact me :
 [s.goncalvesclaro@gmail.com](s.goncalvesclaro@gmail.com)

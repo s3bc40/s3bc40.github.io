@@ -2,7 +2,7 @@
 layout: resume_template
 ---
 
-![Profile](../assets/images/img_avatar3.png)
+![Profile](assets/images/profile_pic.png)
 
 G.CLARO Sébastien
 =================
@@ -18,7 +18,7 @@ About
 --------
 
 Bioinformaticien computationnel passionné par la Data Science et le développement d'application Web.  
-L'environnement, les randonnées et les jeux vidéos sont aussi mes centres d'intérêts.
+L'environnement, les randonnées, et les jeux vidéos sont aussi mes centres d'intérêts.
 
 Experiences
 ----------
@@ -40,7 +40,7 @@ Formations
 
 **Data Science Bootcamp, 365DataScience** (Mai 2020 - Juin 2020, Udemy)
 
-+ Analyse statistique. Programmation avec NumPy, pandas, matplotlib, et Seaborn. Analyse statistiques avancées. Tableau. Machine Learning avec statsmodels et scikit-learn. Deep learning avec TensorFlow(2). 29h avec [certification](../assets/pdf/certif_DS.pdf).
++ Analyse statistique. Programmation avec NumPy, pandas, matplotlib, et Seaborn. Analyse statistiques avancées. Tableau. Machine Learning avec statsmodels et scikit-learn. Deep learning avec TensorFlow2. 29h avec [certification](../assets/pdf/certif_DS.pdf).
 
 **Master Bioinformatique parcours Computationnel** (2017 - 2019, Université de Bordeaux)
 

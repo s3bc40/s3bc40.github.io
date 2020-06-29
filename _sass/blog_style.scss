@@ -1,0 +1,45 @@
+// Variables
+// $width_p: 42em;
+$main_color: mediumorchid;
+$main_font: 'Alegreya Sans';
+
+// Main container
+.main-container {
+    width: 60%;
+    margin: 0 auto;
+}
+
+// Body
+body {
+    font-family: $main_font;
+    font-size: 100%;
+}
+
+// Link management
+a:link {
+    color: $main_color;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: $main_color;
+}
+
+/* mouse over link */
+a:hover {
+    color: slategrey;
+}
+
+/* selected link */
+a:active {
+    color: $main_color;
+}
+
+// For responsive design
+@media screen and (max-width: 768px) {
+
+    .main-container {
+        width: 90%;
+    }
+}

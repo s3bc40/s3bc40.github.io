@@ -35,6 +35,9 @@ plugins:
   - jekyll-feed
   - jemoji # git :  jekyll/jemoji 
 
+# Seperator post excerpt
+excerpt_separator: <!--limit-->
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

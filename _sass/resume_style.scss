@@ -48,6 +48,8 @@ h1+p {
 img {
     width: 8em;
     border-radius: 50%;
+    border: 1px solid #ddd;
+    padding: 0.2em;
     float: left;
     margin-right: 2em;
 }
@@ -96,7 +98,7 @@ blockquote>p {
     }
 }
 
-@media screen and (max-width: 470px) {
+@media screen and (max-width: 500px) {
 
     h1+p {
         clear: left;
