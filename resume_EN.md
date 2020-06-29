@@ -17,8 +17,8 @@ G.CLARO Sebastien
 About
 --------
 
-Computational bioinformatician with a passion for Data Science and Web application development.  
-The environment, hiking, and video games are also my interests.
+Computational bioinformatician with a passion for Data Science and Web application development.
+Ecology, nature, hiking, programming, video games and dogs are my centers of interest.
 
 Experiences
 ----------
@@ -31,9 +31,14 @@ Experiences
 
 **TNBC cancer subtype research and prediction, Sorbonne University** (Feb 2019 - August 2020, Paris)
 
-+ Internship dedicated to setting up a workflow for predicting the cancer subtype *Triple Negative Breast Cancer* (TNBC). Data processing, preprocessing, and Machine Learning (Random Forest, XGBoost, Logistic Regression).
++ Final internship training Master Bioinformatics done at [Computational and Quantitative Biology Laboratory](http://www.lcqb.upmc.fr/) at the Sorbonne University. Finding and predicting a response to treatment for a breast cancer subtype using supervised learning.
 
 >*Tools : Python(3), R, Anaconda, Bioconductor, NumPy, pandas, matplotlib, Seaborn, scikit-learn*
+
+**Front-end web application development, BIOASTER** (Feb 2018 - May 2018, University of Bordeaux)
+
++ Project End Group Master 1 Bioinformatics. Front-end development of a LIMS web application for biologists at the research institute [BIOASTER](https://www.bioaster.org/fr/), based in Lyon.
+
 
 Formations
 ---------
@@ -51,6 +56,6 @@ Skills
 
 **Data Science:** Python, R language, SQL, Anaconda, NumPy, pandas, matplotlib, Seaborn, statsmodels, scikit-learn, Tensorflow, Jupyter notebook
 
-**Web development:** HTML5/CSS3, JavaScript, jQuery, Bootstrap, PHP, Symfony, Django, d3.js, chart.js
+**Web development:** HTML5/CSS3, Sass, JavaScript, jQuery, Bootstrap, PHP, Symfony, Django, d3.js, chart.js
 
 **Soft skills:** sens du collectif, curiosité, résolution de problèmes, intelligence émotionnelle, empathie, communication

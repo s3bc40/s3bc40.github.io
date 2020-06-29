@@ -1,7 +1,9 @@
 // Variables
-$width_p: 42em;
+$width_p: 52em;
 $main_color: mediumorchid;
 $main_font: 'Alegreya Sans';
+$media_size_p: 0.875em; // 14px
+$print_size_p: 0.75em; // 12px
 
 // Body of resume
 body {
@@ -30,19 +32,23 @@ a:active {
     color: $main_color;
 }
 
-// Links after h1
-h1+p {
-    max-width: $width_p;
-    color: $main_color;
-    font-size: 0.9em;
-}
-
 // Main container
 .main-container {
     width: 60%;
     margin: 0 auto;
 }
 
+// Links after h1
+h1+p {
+    max-width: $width_p;
+    color: $main_color;
+}
+
+// All text to 12 px
+h2+p~ul>li,
+blockquote>p {
+    font-size: $media_size_p;
+}
 
 // Image css
 img {
@@ -126,14 +132,19 @@ blockquote>p {
     }
 
     html {
-        margin: 1.2em;
         background-color: #fff;
         // Chrome auto print bg css
         -webkit-print-color-adjust: exact;
     }
 
     .main-container {
-        width: 100%;
+        width: 95%;
         page-break-after: avoid;
+    }
+
+    // All text to 12 px
+    h2+p+ul>li,
+    blockquote>p {
+        font-size: $print_size_p;
     }
 }
