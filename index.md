@@ -19,6 +19,7 @@ I am also available on social media :
 + [**LinkedIn**: sgoncalvesclaro-bioinfo](https://www.linkedin.com/in/sgoncalvesclaro-bioinfo/)
 + [**Instagram**: s_gclaro](https://www.instagram.com/s_gclaro/)
 + [**Reddit**: u/s3bc40](https://www.reddit.com/user/s3bc40)
++ [**SoloLearn**: s3bc40](https://www.sololearn.com/Profile/8304208)
 
 If you have any request, please do not hesistate to contact me :
-[s.goncalvesclaro@gmail.com](s.goncalvesclaro@gmail.com)
+[s.goncalvesclaro@gmail.com](mailto:s.goncalvesclaro@gmail.com)

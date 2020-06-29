@@ -32,6 +32,7 @@ a:active {
 body {
     width: 100%;
 }
+
 // Main container
 .main-container {
     width: 50%;
@@ -46,9 +47,11 @@ img {
     padding: 0.5em;
     width: 8em;
     border-radius: 50%;
-  }
+}
 
 // List unordered
 ul {
-    margin-left: -1.5em;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }

@@ -11,7 +11,7 @@ G.CLARO Sébastien
 [[**LinkedIn**: sgoncalvesclaro-bioinfo]](https://www.linkedin.com/in/sgoncalvesclaro-bioinfo/)
 [[**Insta**: s_gclaro]](https://www.instagram.com/s_gclaro/)
 [[**Reddit**: u/s3bc40]](https://www.reddit.com/user/s3bc40)
-[[**Email**: s.goncalvesclaro@gmail.com]](s.goncalvesclaro@gmail.com)
+[[**Email**: s.goncalvesclaro@gmail.com]](mailto:s.goncalvesclaro@gmail.com)
 [**Tel**: 0624524788]
 
 About
