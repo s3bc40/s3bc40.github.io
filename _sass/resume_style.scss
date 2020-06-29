@@ -117,6 +117,7 @@ blockquote>p {
 // For printing pdf
 @media print {
 
+    // Avoid extra print from web browser
     @page {
         size: auto;
         /* auto is the initial value */
@@ -125,11 +126,14 @@ blockquote>p {
     }
 
     html {
-        margin: 2em;
+        margin: 1.2em;
         background-color: #fff;
+        // Chrome auto print bg css
+        -webkit-print-color-adjust: exact;
     }
 
     .main-container {
         width: 100%;
+        page-break-after: avoid;
     }
 }
