@@ -3,6 +3,7 @@
 $main_color: mediumorchid;
 $second_color: slategrey;
 $main_font: 'Alegreya Sans';
+$font_size_content: 1.25em;
 
 // Main container
 .main-container {
@@ -32,17 +33,10 @@ a:hover {
     color: $second_color;
 }
 
-// Post container
-.post-container {
-    margin-left: 2.5em;
-    margin-bottom: 1.5em;
-
-}
-
-// Line hr styling
-hr {
-    border-top: 1px solid $second_color;
-    opacity: 20%;
+// Content of post
+.content {
+    margin-left: 1.2em;
+    font-size: $font_size_content;
 }
 
 // For responsive design
