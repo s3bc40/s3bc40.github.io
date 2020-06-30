@@ -15,7 +15,7 @@ layout: resume_template
 
 ## About
 
-Bioinformaticien computationnel passionné par la Data Science et le développement d'application Web.
+Bioinformaticien passionné par la Data Science et le développement d'application Web.
 L'écologie, la nature, les randonnées, la programmation, les jeux vidéos et les chiens sont mes centres d'intérêts.
 
 ## Experiences

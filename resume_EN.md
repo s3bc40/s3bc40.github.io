@@ -15,7 +15,7 @@ layout: resume_template
 
 ## About
 
-Computational bioinformatician with a passion for Data Science and Web application development.
+Bioinformatician with a passion for Data Science and Web application development.
 Ecology, nature, hiking, programming, video games and dogs are my centers of interest.
 
 ## Experiences
