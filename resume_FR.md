@@ -4,8 +4,7 @@ layout: resume_template
 
 ![Profile](assets/images/profile_pic.png)
 
-G.CLARO Sébastien
-=================
+# G.CLARO Sébastien
 
 [[**GitHub**: s3bc40.github.io]](https://s3bc40.github.io/)
 [[**LinkedIn**: sgoncalvesclaro-bioinfo]](https://www.linkedin.com/in/sgoncalvesclaro-bioinfo/)
@@ -14,14 +13,12 @@ G.CLARO Sébastien
 [[**Email**: s.goncalvesclaro@gmail.com]](mailto:s.goncalvesclaro@gmail.com)
 [**Tel**: 0624524788]
 
-About
---------
+## About
 
 Bioinformaticien computationnel passionné par la Data Science et le développement d'application Web.
 L'écologie, la nature, les randonnées, la programmation, les jeux vidéos et les chiens sont mes centres d'intérêts.
 
-Experiences
-----------
+## Experiences
 
 **Consultant développeur web pour MCA-Group, Axileo** (Sept 2019 - Mai 2020, Paris)
 
@@ -33,16 +30,15 @@ Experiences
 
 + Stage de fin de formation de Master Bioinformatique effectué au [Laboratoire de Biologie Computationnelle et Quantitative](http://www.lcqb.upmc.fr/), à l’Université de Sorbonne. Recherche et prédictiond’une réponse à un traitement contre un sous-type de cancer du sein, à l’aide de l’apprentissage supervisé.
 
->*Outils : Python(3), R, Anaconda, Bioconductor, NumPy, pandas, matplotlib, Seaborn, scikit-learn*
+>*Outils : Python(3), R, Anaconda, Bioconductor, NumPy, pandas, matplotlib, Seaborn, scikit-learn, Linux*
 
 **Développement application web front-end, BIOASTER**. (Fev 2018 - Mai 2018, Université de Bordeaux)
 
 + Projet en groupe de fin de Master 1 Bioinformatique. Développement front-end d’une applicationweb LIMS pour les biologistes de l’institut de recherche [BIOASTER](https://www.bioaster.org/fr/), basée à Lyon.
 
->*Outils : HTML5/CSS3, JavaScript, cystocape.js, d3.js, chart.js*
+>*Outils : HTML5/CSS3, JavaScript, cystocape.js, d3.js, chart.js, GitLab, Trello, Linux*
 
-Formations
----------
+## Formations
 
 **Data Science Bootcamp, 365DataScience** (Mai 2020 - Juin 2020, Udemy)
 
@@ -52,8 +48,7 @@ Formations
 
 + Traitements statistiques de données. Algorithmique: récursivité, parcours d’arbres. Modélisation qualitative, quantitative et modélisation deprocessus dynamique. Bioinformatique structurale.
 
-Skills
----------
+## Skills
 
 **Data Science:** Python, R language, SQL, Anaconda, NumPy, pandas, matplotlib, Seaborn, statsmodels, scikit-learn, Tensorflow, Jupyter notebook
 

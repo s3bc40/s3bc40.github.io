@@ -1,6 +1,7 @@
 // Variables
 // $width_p: 42em;
 $main_color: mediumorchid;
+$second_color: slategrey;
 $main_font: 'Alegreya Sans';
 
 // Main container
@@ -28,7 +29,20 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-    color: slategrey;
+    color: $second_color;
+}
+
+// Post container
+.post-container {
+    margin-left: 2.5em;
+    margin-bottom: 1.5em;
+
+}
+
+// Line hr styling
+hr {
+    border-top: 1px solid $second_color;
+    opacity: 20%;
 }
 
 /* selected link */

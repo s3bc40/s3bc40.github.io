@@ -45,7 +45,7 @@ h1+p {
 }
 
 // All text to 12 px
-h2+p~ul>li,
+h2~p~ul>li,
 blockquote>p {
     font-size: $media_size_p;
 }
@@ -64,19 +64,6 @@ img {
 h2#about {
     clear: left;
     margin-top: 1.5em;
-}
-
-// Headers styling
-h2::before {
-    background-color: $main_color;
-    content: "";
-    display: inline-block;
-    height: 0.1em;
-    position: relative;
-    vertical-align: middle;
-    width: 5%;
-    right: 0.5em;
-    margin-left: 0.5em;
 }
 
 h2 {
@@ -143,7 +130,7 @@ blockquote>p {
     }
 
     // All text to 12 px
-    h2+p+ul>li,
+    h2~p+ul>li,
     blockquote>p {
         font-size: $print_size_p;
     }
