@@ -28,7 +28,7 @@ L'écologie, la nature, les randonnées, la programmation, les jeux vidéos et l
 
 **Recherche et prédiction du sous-type de cancer TNBC, Université Sorbonne** (Fev 2019 - Août 2020, Paris)
 
-+ Stage de fin de formation de Master Bioinformatique effectué au [Laboratoire de Biologie Computationnelle et Quantitative](http://www.lcqb.upmc.fr/), à l’Université de Sorbonne. Recherche et prédictiond’une réponse à un traitement contre un sous-type de cancer du sein, à l’aide de l’apprentissage supervisé.
++ Stage de fin de formation de Master Bioinformatique effectué au [Laboratoire de Biologie Computationnelle et Quantitative](http://www.lcqb.upmc.fr/), à l’Université de Sorbonne. Recherche et prédiction d’une réponse à un traitement contre un sous-type de cancer du sein, à l’aide de l’apprentissage supervisé.
 
 >*Outils : Python(3), R, Anaconda, Bioconductor, NumPy, pandas, matplotlib, Seaborn, scikit-learn, Linux*
 
