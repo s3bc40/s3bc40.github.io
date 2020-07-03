@@ -32,7 +32,7 @@ L'écologie, la nature, les randonnées, la programmation, les jeux vidéos et l
 
 >*Outils : Python(3), R, Anaconda, Bioconductor, NumPy, pandas, matplotlib, Seaborn, scikit-learn, Linux*
 
-**Développement application web front-end, BIOASTER**. (Fev 2018 - Mai 2018, Université de Bordeaux)
+**Développement application web front-end, BIOASTER** (Fev 2018 - Mai 2018, Université de Bordeaux)
 
 + Projet en groupe de fin de Master 1 Bioinformatique. Développement front-end d’une applicationweb LIMS pour les biologistes de l’institut de recherche [BIOASTER](https://www.bioaster.org/fr/), basée à Lyon.
 
