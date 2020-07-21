@@ -131,6 +131,7 @@ blockquote>p {
 
     // All text to 12 px
     h2~p+ul>li,
+    h2~p,
     blockquote>p {
         font-size: $print_size_p;
     }

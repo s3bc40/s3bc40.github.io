@@ -15,26 +15,26 @@ layout: resume_template
 
 ## About
 
-Bioinformatician with a passion for Data Science and Web application development.
-Ecology, nature, hiking, programming, video games and dogs are my centers of interest.
+IT developer with an interest for Data Science and Web application development.
+Ecology, hiking, badminton, running, video games and dogs are my centers of interest.
 
 ## Experiences
 
-**Web developer consultant for MCA-Group, Axileo** (Sept 2019 - May 2020, Paris)
+**[JOB] - Web developer consultant for MCA-Group, Axileo** (Sept 2019 - May 2020, Paris)
 
-+ Development and updating of various internal software: MANAGEO, Intranet, Competence profile. Assistance and technical support (software) to users on-site and remotely. Maintenance assistance for different tools, and version migration.
++ Development and updating of various internal software: MANAGEO, Intranet, DTThèque. Creation of user accounts. Assistance and support (software) to users on-site and remotely. Creation of IT procedures: updates, amendments. Maintenance assistance for the various tools, and version migration.
 
 >*Tools : PHP(7), Symfony(2.8,3.4), PHPMyAdmin, HTML5/CSS3, JavaScript, jQuery, SQL, Windows, PHPStorm, Talend, GitLab*
 
-**TNBC cancer subtype research and prediction, Sorbonne University** (Feb 2019 - August 2020, Paris)
+**[INTERNSHIP] - TNBC cancer subtype research and prediction, Sorbonne University** (Feb 2019 - August 2020, Paris)
 
-+ Final internship training Master Bioinformatics done at [Computational and Quantitative Biology Laboratory](http://www.lcqb.upmc.fr/) at the Sorbonne University. Finding and predicting a response to treatment for a breast cancer subtype using supervised learning.
++ Final internship training Master Bioinformatics done at [Laboratory of Computational and Quantitative](http://www.lcqb.upmc.fr/) at the University of Sorbonne. Research and prediction of response to treatment against a subtype of breast cancer, using supervised learning. Weekly presentation of research with Inserm biologist collaborators.
 
 >*Tools : Python(3), R, Anaconda, Bioconductor, NumPy, pandas, matplotlib, Seaborn, scikit-learn, GitHub, Linux*
 
-**Front-end web application development, BIOASTER** (Feb 2018 - May 2018, University of Bordeaux)
+**[PROJECT] - Front-end web application development, BIOASTER** (Feb 2018 - May 2018, University of Bordeaux)
 
-+ Project End Group Master 1 Bioinformatics. Front-end development of a LIMS web application for biologists at the research institute [BIOASTER](https://www.bioaster.org/fr/), based in Lyon.
++ Group project at the end of Master 1 Bioinformatics. Front-end development of a LIMS web application for biologists at the research institute [BIOASTER](https://www.bioaster.org/fr/), based in Lyon. Setting up a dashboard, an administrator page and a sample of kinship graph. Meeting deadlines and organization via Trello and TeamGantt.
 
 >*Tools : HTML5/CSS3, JavaScript, cystocape.js, d3.js, chart.js, GitLab, Trello, Linux*
 
@@ -53,5 +53,9 @@ Ecology, nature, hiking, programming, video games and dogs are my centers of int
 **Data Science:** Python, R language, SQL, Anaconda, NumPy, pandas, matplotlib, Seaborn, statsmodels, scikit-learn, Tensorflow, Jupyter notebook
 
 **Web development:** HTML5/CSS3, Sass, JavaScript, jQuery, Bootstrap, PHP, Symfony, Django, d3.js, chart.js
+
+**Systems and management:** Linux, Bash, Git, XAMP, Windows, Putty, WAMP, phpMyAdmin, IT support, project management, Trello
+
+**Languages:** French (motherly), English (B1)
 
 **Soft skills:** collective sense, curiosity, problem solving, emotional intelligence, empathy, communication
