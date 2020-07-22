@@ -6,7 +6,8 @@ layout: resume_template
 
 # G.CLARO Sébastien
 
-[[**GitHub**: s3bc40.github.io]](https://s3bc40.github.io/)
+[[**Site**: https://s3bc40.github.io]](https://s3bc40.github.io/)
+[[**GitHub**: s3bc40]](https://github.com/s3bc40)
 [[**LinkedIn**: sgoncalvesclaro-bioinfo]](https://www.linkedin.com/in/sgoncalvesclaro-bioinfo/)
 [[**Insta**: s_gclaro]](https://www.instagram.com/s_gclaro/)
 [[**Reddit**: u/s3bc40]](https://www.reddit.com/user/s3bc40)
