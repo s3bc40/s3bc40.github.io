@@ -7,7 +7,7 @@ Welcome to my Website
 
 ![Avatar](assets/images//profile_pic.png)
 
-I am Sebastien, a 26 years old bioinformatician.
+I am Sebastien, a 27 years old web developer.
 
 I made this GithubPages, locally with Jekyll. This is where I will try  
 to expose each of my projects or maybe other contents related to programming.
