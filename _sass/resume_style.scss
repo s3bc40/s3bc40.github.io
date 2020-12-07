@@ -52,8 +52,9 @@ blockquote>p {
 
 // Image css
 img {
-    width: 8em;
-    border-radius: 50%;
+    background-size: cover;
+    width: 110px;
+    border-radius: 20%;
     border: 1px solid #ddd;
     padding: 0.2em;
     float: left;

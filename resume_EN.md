@@ -9,7 +9,6 @@ layout: resume_template
 [[**Site**: https://s3bc40.github.io]](https://s3bc40.github.io/)
 [[**GitHub**: s3bc40]](https://github.com/s3bc40)
 [[**LinkedIn**: sgoncalvesclaro-bioinfo]](https://www.linkedin.com/in/sgoncalvesclaro-bioinfo/)
-[[**Insta**: s_gclaro]](https://www.instagram.com/s_gclaro/)
 [[**Reddit**: u/s3bc40]](https://www.reddit.com/user/s3bc40)
 [[**Email**: s.goncalvesclaro@gmail.com]](mailto:s.goncalvesclaro@gmail.com)
 [**Tel**: 0624524788]
@@ -20,6 +19,12 @@ IT developer with an interest for Data Science and Web application development.
 Ecology, hiking, badminton, running, video games and dogs are my centers of interest.
 
 ## Experiences
+
+**[JOB] - Assistant software engineer, IUT de Bayonne** (Sept 2020 - Dec 2020, Anglet)
+
++ Development and maintenance of a learning management system (LMS) and a virtual desktop infrastructure (VDI), at [IUT de Bayonne] (https://www.iutbayonne.univ-pau.fr/) . Support for users (teachers and students) for the use of Microsoft Teams and Moodle. Writing of technical documentation and tutorials in the use of educational tools. Telecommuting and remote assistance.
+
+>*Tools : PHP(7), Moodle (3.5, 3.9), Vue.js (3.0), JavaScript, HTML5/CSS3, MySQL, SQL, C#, WPF,  Windows, Microsoft Teams, Kickle*
 
 **[JOB] - Web developer consultant for MCA-Group, Axileo** (Sept 2019 - May 2020, Paris)
 
@@ -33,12 +38,6 @@ Ecology, hiking, badminton, running, video games and dogs are my centers of inte
 
 >*Tools : Python(3), R, Anaconda, Bioconductor, NumPy, pandas, matplotlib, Seaborn, scikit-learn, GitHub, Linux*
 
-**[PROJECT] - Front-end web application development, BIOASTER** (Feb 2018 - May 2018, University of Bordeaux)
-
-+ Group project at the end of Master 1 Bioinformatics. Front-end development of a LIMS web application for biologists at the research institute [BIOASTER](https://www.bioaster.org/fr/), based in Lyon. Setting up a dashboard, an administrator page and a sample of kinship graph. Meeting deadlines and organization via Trello and TeamGantt.
-
->*Tools : HTML5/CSS3, JavaScript, cystocape.js, d3.js, chart.js, GitLab, Trello, Linux*
-
 ## Formations
 
 **Data Science Bootcamp, 365DataScience** (May 2020 - June 2020, Udemy)
@@ -51,11 +50,11 @@ Ecology, hiking, badminton, running, video games and dogs are my centers of inte
 
 ## Skills
 
+**Web development:** Django, Vue.js, TailwindCSS, JavaScript, HTML5/CSS3, Sass, jQuery, Bootstrap, PHP, Symfony, Moodle
+
+**Systems and management:** Linux, Bash, Git, XAMP, Windows, Putty, Bitnami, WAMP, phpMyAdmin, IT support, Trello
+
 **Data Science:** Python, R language, SQL, Anaconda, NumPy, pandas, matplotlib, Seaborn, statsmodels, scikit-learn, Tensorflow, Jupyter notebook
-
-**Web development:** HTML5/CSS3, Sass, JavaScript, jQuery, Bootstrap, PHP, Symfony, Django, d3.js, chart.js
-
-**Systems and management:** Linux, Bash, Git, XAMP, Windows, Putty, WAMP, phpMyAdmin, IT support, project management, Trello
 
 **Languages:** French (motherly), English (B1)
 

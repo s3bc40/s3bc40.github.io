@@ -43,10 +43,10 @@ body {
 
 // Avatar picture
 img {
-    border: 1px solid #ddd;
+    background-size: cover;
     padding: 0.5em;
-    width: 8em;
-    border-radius: 50%;
+    width: 110px;
+    border-radius: 20%;
 }
 
 // List unordered

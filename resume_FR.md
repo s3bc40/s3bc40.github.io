@@ -9,7 +9,6 @@ layout: resume_template
 [[**Site**: https://s3bc40.github.io]](https://s3bc40.github.io/)
 [[**GitHub**: s3bc40]](https://github.com/s3bc40)
 [[**LinkedIn**: sgoncalvesclaro-bioinfo]](https://www.linkedin.com/in/sgoncalvesclaro-bioinfo/)
-[[**Insta**: s_gclaro]](https://www.instagram.com/s_gclaro/)
 [[**Reddit**: u/s3bc40]](https://www.reddit.com/user/s3bc40)
 [[**Email**: s.goncalvesclaro@gmail.com]](mailto:s.goncalvesclaro@gmail.com)
 [**Tel**: 0624524788]
@@ -20,6 +19,12 @@ Développeur informatique intéressé par la Data Science et le développement d
 L'écologie, les randonnées, le badminton, la course à pied, les jeux vidéos et les chiens sont mes centres d'intérêts.
 
 ## Experiences
+
+**[EMPLOI] - Assistant ingénieur développement informatique, IUT de Bayonne** (Sept 2020 - Déc 2020, Anglet)
+
++ Développement et maintenance d'un learning management system (LMS) et d'une infrastructure de postes de travail virtuels (VDI), à l'[IUT de Bayonne](https://www.iutbayonne.univ-pau.fr/). Support auprès des utilsateurs (professeurs et étudiants) pour l'utilisation de Microsoft Teams et de Moodle. Rédaction de documentations techniques et tutoriels dans l'utilisation des outils pédagogiques. Télétravail et aide à distance.
+
+>*Outils : PHP(7), Moodle (3.5, 3.9), Vue.js (3.0), JavaScript, HTML5/CSS3, MySQL, SQL, C#, WPF,  Windows, Microsoft Teams, Kickle*
 
 **[EMPLOI] - Consultant développeur web pour MCA-Group, Axileo** (Sept 2019 - Mai 2020, Paris)
 
@@ -33,12 +38,6 @@ L'écologie, les randonnées, le badminton, la course à pied, les jeux vidéos 
 
 >*Outils : Python(3), R, Anaconda, Bioconductor, NumPy, pandas, matplotlib, Seaborn, scikit-learn, Linux*
 
-**[PROJET] - Développement application web front-end, BIOASTER** (Fev 2018 - Mai 2018, Université de Bordeaux)
-
-+ Projet en groupe de fin de Master 1 Bioinformatique. Développement front-end d’une application web LIMS pour les biologistes de l’institut de recherche [BIOASTER](https://www.bioaster.org/fr/), basée à Lyon. Mise en place d'un tableau de bord, d'une page administrateur et d'un graphe de parenté des échantillons. Respect des dates limites et organisation via Trello et TeamGantt.
-
->*Outils : HTML5/CSS3, JavaScript, cystocape.js, d3.js, chart.js, GitLab, Trello, Linux*
-
 ## Formations
 
 **Data Science Bootcamp, 365DataScience** (Mai 2020 - Juin 2020, Udemy)
@@ -51,11 +50,11 @@ L'écologie, les randonnées, le badminton, la course à pied, les jeux vidéos 
 
 ## Skills
 
+**Développement Web:** Django, Vue.js, TailwindCSS, JavaScript, HTML5/CSS3, Sass, jQuery, Bootstrap, PHP, Symfony, Moodle
+
+**Systèmes et gestion:** Linux, Bash, Git, XAMP, Windows, Putty, Bitnami, WAMP, phpMyAdmin, IT support, Trello
+
 **Data Science:** Python, R language, SQL, Anaconda, NumPy, pandas, matplotlib, Seaborn, statsmodels, scikit-learn, Tensorflow, Jupyter notebook
-
-**Développement Web:** HTML5/CSS3, Sass, JavaScript, jQuery, Bootstrap, PHP, Symfony, Django, d3.js, chart.js
-
-**Systèmes et gestion:** Linux, Bash, Git, XAMP, Windows, Putty, WAMP, phpMyAdmin, support informatique, gestion de projet, Trello
 
 **Langues:** Français (maternel), Anglais (B1)
 

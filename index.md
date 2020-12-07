@@ -5,7 +5,7 @@ layout: home
 Welcome to my Website
 =====================
 
-![Avatar](assets/images/avatar.jpg)
+![Avatar](assets/images//profile_pic.png)
 
 I am Sebastien, a 26 years old bioinformatician.
 
