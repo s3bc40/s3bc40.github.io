@@ -17,7 +17,6 @@ I am also available on social media :
 
 + [**GitHub**: s3bc40](https://github.com/s3bc40)
 + [**LinkedIn**: sgoncalvesclaro-bioinfo](https://www.linkedin.com/in/sgoncalvesclaro-bioinfo/)
-+ [**Instagram**: s_gclaro](https://www.instagram.com/s_gclaro/)
 + [**Reddit**: u/s3bc40](https://www.reddit.com/user/s3bc40)
 + [**SoloLearn**: s3bc40](https://www.sololearn.com/Profile/8304208)
 
