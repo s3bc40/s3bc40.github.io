@@ -22,7 +22,7 @@ L'écologie, les randonnées, le badminton, la course à pied, les jeux vidéos 
 
 **[EMPLOI] - Assistant ingénieur développement informatique, IUT de Bayonne** (Sept 2020 - Déc 2020, Anglet)
 
-+ Développement et maintenance d'un learning management system (LMS) et d'une infrastructure de postes de travail virtuels (VDI), à l'[IUT de Bayonne](https://www.iutbayonne.univ-pau.fr/). Support auprès des utilsateurs (professeurs et étudiants) pour l'utilisation de Microsoft Teams et de Moodle. Rédaction de documentations techniques et tutoriels dans l'utilisation des outils pédagogiques. Télétravail et aide à distance.
++ Développement et maintenance d'un learning management system (LMS) et d'une infrastructure de postes de travail virtuels (VDI), à l'[IUT de Bayonne](https://www.iutbayonne.univ-pau.fr/). Support auprès des utilisateurs (professeurs et étudiants) pour l'utilisation de Microsoft Teams et de Moodle. Rédaction de documentations techniques et tutoriels dans l'utilisation des outils pédagogiques. Télétravail et aide à distance.
 
 >*Outils : PHP(7), Moodle (3.5, 3.9), Vue.js (3.0), JavaScript, HTML5/CSS3, MySQL, SQL, C#, WPF,  Windows, Microsoft Teams, Kickle*
 
